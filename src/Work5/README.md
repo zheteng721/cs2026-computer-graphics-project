@@ -41,3 +41,14 @@
 3.实时交互：动态调节光源与弹射次数，直观感受镜面反射次数对画面复杂度的影响，理解光线追踪的计算量与画质权衡。
 
 4.抗锯齿实践：通过多点采样平均，掌握了常见抗锯齿的简单实现，提高了渲染图像质量。
+
+必做题：
+
+<img width="480" height="393" alt="vubkQ9Jl_converted" src="https://github.com/user-attachments/assets/5fa0aee6-23a4-46ac-8a9a-174730d6ef0d" />
+
+
+
+
+选做题：
+
+<img width="480" height="387" alt="ywRA73Gj_converted" src="https://github.com/user-attachments/assets/dd2ed277-750e-488c-a904-b8be55995519" />

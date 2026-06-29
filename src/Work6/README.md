@@ -43,3 +43,7 @@
 3.框架实践：掌握了 PyTorch3D 的完整工作流（数据加载、多视角渲染、可微优化、模型保存），为后续三维重建任务打下基础。
 
 4.扩展思路：纹理优化实验进一步理解了联合优化形状与外观的可能性，拓展了可微渲染的应用视野。
+
+必做题：
+
+<img width="480" height="486" alt="vadNKvWw_converted" src="https://github.com/user-attachments/assets/b902192b-a730-4577-8d28-0ff5cb78d2d1" />

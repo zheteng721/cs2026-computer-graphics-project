@@ -1,24 +1,3 @@
-必做题：
-
-![6HsvrVfO_converted](https://github.com/user-attachments/assets/373cf892-0b9f-4d89-8a1b-8a93c7c157bc)
-
-
-
-
-选做题一：
-
-![FrntObOG_converted](https://github.com/user-attachments/assets/e3b35dff-9e5f-4df8-9c56-6a332065ebb2)
-
-
-
-
-选做题二，3.26补充：
-
-![r9Fje4eA_converted](https://github.com/user-attachments/assets/bb515528-b76b-437c-803d-77324111d47b)
-
-
-
-
 实验二 —— 旋转与变换
 
 一、实验要求
@@ -68,3 +47,21 @@ get_projection_matrix：先构造透视挤压矩阵（M_persp2ortho），再组�
 4.扩展实践：通过立方体绘制和旋转插值，掌握了三维线框几何体的构建方法及姿态过渡技巧，为后续复杂 3D 场景开发积累了经验。
 
 5.交互反馈：键盘控制实时调节旋转角度，操作直观，验证了变换的实时性。
+
+必做题：
+
+![6HsvrVfO_converted](https://github.com/user-attachments/assets/373cf892-0b9f-4d89-8a1b-8a93c7c157bc)
+
+
+
+
+选做题一：
+
+![FrntObOG_converted](https://github.com/user-attachments/assets/e3b35dff-9e5f-4df8-9c56-6a332065ebb2)
+
+
+
+
+选做题二，3.26补充：
+
+![r9Fje4eA_converted](https://github.com/user-attachments/assets/bb515528-b76b-437c-803d-77324111d47b)

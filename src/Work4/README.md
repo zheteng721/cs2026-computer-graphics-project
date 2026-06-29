@@ -1,15 +1,3 @@
-<img width="480" height="393" alt="vubkQ9Jl_converted" src="https://github.com/user-attachments/assets/d077cf33-a035-4ad2-8864-0c9979157f58" />
-
-
-
-
-选做题：
-
-<img width="480" height="397" alt="RcKy5GrK_converted" src="https://github.com/user-attachments/assets/7e229d25-3f59-47fb-880e-1b84b3505065" />
-
-
-
-
 实验四 —— Phong 光照模型
 
 一、实验要求
@@ -51,3 +39,14 @@ Blinn-Phong：计算半程向量 H = normalize(L+V)，用 N·H 替代 R·V，高
 3.性能与细节：注意向量归一化、max(0, N·L) 截断和颜色 clamp，避免常见渲染错误。
 
 4.模型对比认识：Phong 高光边缘锐利，大入射角易断裂；Blinn‑Phong 高光呈“光晕状”，大入射角仍平滑过渡，更接近真实材质。
+
+必做题：
+
+<img width="480" height="393" alt="vubkQ9Jl_converted" src="https://github.com/user-attachments/assets/d077cf33-a035-4ad2-8864-0c9979157f58" />
+
+
+
+
+选做题：
+
+<img width="480" height="397" alt="RcKy5GrK_converted" src="https://github.com/user-attachments/assets/7e229d25-3f59-47fb-880e-1b84b3505065" />

@@ -1,15 +1,3 @@
-![d0ggpJTi_converted](https://github.com/user-attachments/assets/3dc29af7-7445-41e7-8f3a-aff87d23925f)
-
-
-
-
-选做题：
-
-![Oib6q7gk_converted](https://github.com/user-attachments/assets/d66db67f-aaca-4fc4-928b-4e77892e29f9)
-
-
-
-
 实验三 —— 贝塞尔曲线
 
 一、实验要求
@@ -55,3 +43,14 @@ B 样条曲线：实现三次均匀 B 样条算法，按 B 键在贝塞尔与 B 
 3.交互设计：熟练处理鼠标点击、键盘事件，以及对象池在动态控制点数量下的应用技巧。
 
 4.反走样实践：通过超采样或边缘模糊方法优化光栅化质量，直观感受到抗锯齿对视觉体验的提升。
+
+必做题：
+
+![d0ggpJTi_converted](https://github.com/user-attachments/assets/3dc29af7-7445-41e7-8f3a-aff87d23925f)
+
+
+
+
+选做题：
+
+![Oib6q7gk_converted](https://github.com/user-attachments/assets/d66db67f-aaca-4fc4-928b-4e77892e29f9)

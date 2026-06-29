@@ -45,3 +45,15 @@
 3.物理模拟调试：速度钳制是防止数值爆炸的重要保障；弹簧初始长度需正确计算；固定点设置影响整体形态。
 
 4.扩展能力：通过补充剪切/弯曲弹簧，理解了不同弹簧类型对布料刚度和外观的影响，为后续更复杂的变形体模拟打下基础。
+
+必做题：
+
+<img width="480" height="506" alt="acs9UviG_converted" src="https://github.com/user-attachments/assets/87fe0037-fded-430f-9789-c77f4889519d" />
+
+
+
+
+选做题：
+
+<img width="480" height="506" alt="VkVXajuB_converted" src="https://github.com/user-attachments/assets/2bc0f221-5478-40b5-b08e-70a171eec81e" />
+

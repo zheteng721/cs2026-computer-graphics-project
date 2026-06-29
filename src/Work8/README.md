@@ -55,3 +55,15 @@
 4.工程实现细节：掌握了 smplx 的 API 使用，处理了 posedirs 转置问题，并利用 torch 实现批量矩阵运算，为后续人体姿态估计、动画合成等任务打下基础。
 
 5.数值验证意识：通过对比官方实现验证手写正确性，培养严谨的工程习惯。
+
+全关节权重分布图：
+
+<img width="1517" height="1559" alt="all_joint_weights" src="https://github.com/user-attachments/assets/62de86b1-6d42-4e68-b136-bd22cabfa532" />
+
+
+
+
+总对比图：
+
+<img width="2417" height="2176" alt="comparison_grid" src="https://github.com/user-attachments/assets/c1fbe783-56e6-4671-a4f7-be52d2d60bc2" />
+

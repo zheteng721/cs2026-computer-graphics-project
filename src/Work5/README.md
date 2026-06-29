@@ -44,7 +44,7 @@
 
 必做题：
 
-<img width="480" height="393" alt="vubkQ9Jl_converted" src="https://github.com/user-attachments/assets/5fa0aee6-23a4-46ac-8a9a-174730d6ef0d" />
+<img width="480" height="387" alt="ad67AIjg_converted" src="https://github.com/user-attachments/assets/5441dfb7-7082-40b6-b607-3a228d30c5b8" />
 
 
 

@@ -1,8 +1,3 @@
-![gMniGfy0_converted](https://github.com/user-attachments/assets/7f1279be-e69e-4ee1-b09c-3dc94c0f52a5)
-
-
-
-
 实验一 —— 万有引力粒子群仿真
 
 一、实验要求
@@ -41,3 +36,5 @@
 3.深化了配置、逻辑、视图三层分离的设计思想，便于后期调参与扩展。
 
 4.熟悉了 Git 仓库管理与规范文档编写，为后续协作奠定基础。
+
+![gMniGfy0_converted](https://github.com/user-attachments/assets/7f1279be-e69e-4ee1-b09c-3dc94c0f52a5)
